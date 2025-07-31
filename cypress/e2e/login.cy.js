@@ -1,4 +1,4 @@
-describe('Login spec', () => {
+describe('Login', () => {
   beforeEach(() => {
     cy.visit('/')
     cy.screenshot('apos-visitar-pagina')
